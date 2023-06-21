@@ -1,0 +1,1 @@
+java -jar mohist-1.20.1-55-server.jar
